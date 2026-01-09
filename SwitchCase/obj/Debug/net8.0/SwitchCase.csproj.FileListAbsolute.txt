@@ -1,0 +1,14 @@
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\bin\Debug\net8.0\SwitchCase.exe
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\bin\Debug\net8.0\SwitchCase.deps.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\bin\Debug\net8.0\SwitchCase.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\bin\Debug\net8.0\SwitchCase.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\bin\Debug\net8.0\SwitchCase.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\obj\Debug\net8.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\obj\Debug\net8.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\obj\Debug\net8.0\SwitchCase.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\obj\Debug\net8.0\refint\SwitchCase.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\obj\Debug\net8.0\SwitchCase.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\obj\Debug\net8.0\SwitchCase.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SwitchCase\obj\Debug\net8.0\ref\SwitchCase.dll

@@ -1,0 +1,14 @@
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\bin\Debug\net8.0\Prime.exe
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\bin\Debug\net8.0\Prime.deps.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\bin\Debug\net8.0\Prime.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\bin\Debug\net8.0\Prime.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\bin\Debug\net8.0\Prime.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\obj\Debug\net8.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\obj\Debug\net8.0\Prime.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\obj\Debug\net8.0\Prime.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\obj\Debug\net8.0\Prime.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\obj\Debug\net8.0\Prime.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\obj\Debug\net8.0\refint\Prime.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\obj\Debug\net8.0\Prime.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\obj\Debug\net8.0\Prime.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\Prime\obj\Debug\net8.0\ref\Prime.dll

@@ -1,0 +1,14 @@
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\bin\Debug\net8.0\MyArray.exe
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\bin\Debug\net8.0\MyArray.deps.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\bin\Debug\net8.0\MyArray.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\bin\Debug\net8.0\MyArray.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\bin\Debug\net8.0\MyArray.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\obj\Debug\net8.0\MyArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\obj\Debug\net8.0\MyArray.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\obj\Debug\net8.0\MyArray.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\obj\Debug\net8.0\MyArray.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\obj\Debug\net8.0\MyArray.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\obj\Debug\net8.0\refint\MyArray.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\obj\Debug\net8.0\MyArray.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\obj\Debug\net8.0\MyArray.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\MyArray\obj\Debug\net8.0\ref\MyArray.dll

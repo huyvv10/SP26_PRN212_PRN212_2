@@ -1,0 +1,14 @@
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\bin\Debug\net8.0\CSharpLang.exe
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\bin\Debug\net8.0\CSharpLang.deps.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\bin\Debug\net8.0\CSharpLang.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\bin\Debug\net8.0\CSharpLang.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\bin\Debug\net8.0\CSharpLang.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\obj\Debug\net8.0\CSharpLang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\obj\Debug\net8.0\CSharpLang.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\obj\Debug\net8.0\CSharpLang.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\obj\Debug\net8.0\CSharpLang.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\obj\Debug\net8.0\CSharpLang.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\obj\Debug\net8.0\refint\CSharpLang.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\obj\Debug\net8.0\CSharpLang.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\obj\Debug\net8.0\CSharpLang.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\CSharpLang\obj\Debug\net8.0\ref\CSharpLang.dll
