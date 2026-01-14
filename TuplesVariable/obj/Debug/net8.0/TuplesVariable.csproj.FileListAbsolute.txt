@@ -1,0 +1,15 @@
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\bin\Debug\net8.0\TuplesVariable.exe
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\bin\Debug\net8.0\TuplesVariable.deps.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\bin\Debug\net8.0\TuplesVariable.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\bin\Debug\net8.0\TuplesVariable.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\bin\Debug\net8.0\TuplesVariable.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\obj\Debug\net8.0\TuplesVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\obj\Debug\net8.0\TuplesVariable.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\obj\Debug\net8.0\TuplesVariable.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\obj\Debug\net8.0\TuplesVariable.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\obj\Debug\net8.0\TuplesVariable.sourcelink.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\obj\Debug\net8.0\TuplesVariable.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\obj\Debug\net8.0\refint\TuplesVariable.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\obj\Debug\net8.0\TuplesVariable.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\obj\Debug\net8.0\TuplesVariable.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\TuplesVariable\obj\Debug\net8.0\ref\TuplesVariable.dll

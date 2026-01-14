@@ -1,0 +1,15 @@
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\obj\Debug\net8.0\RefVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\obj\Debug\net8.0\RefVariable.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\obj\Debug\net8.0\RefVariable.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\obj\Debug\net8.0\RefVariable.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\obj\Debug\net8.0\RefVariable.sourcelink.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\bin\Debug\net8.0\RefVariable.exe
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\bin\Debug\net8.0\RefVariable.deps.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\bin\Debug\net8.0\RefVariable.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\bin\Debug\net8.0\RefVariable.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\bin\Debug\net8.0\RefVariable.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\obj\Debug\net8.0\RefVariable.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\obj\Debug\net8.0\refint\RefVariable.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\obj\Debug\net8.0\RefVariable.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\obj\Debug\net8.0\RefVariable.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\RefVariable\obj\Debug\net8.0\ref\RefVariable.dll

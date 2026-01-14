@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\MyArray\\MyArray.csproj",
+      "projectUniqueName": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\MyArray\\MyArray.csproj",
       "projectName": "MyArray",
-      "projectPath": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\MyArray\\MyArray.csproj",
+      "projectPath": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\MyArray\\MyArray.csproj",
       "packagesPath": "C:\\Users\\VU VAN HUY\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\MyArray\\obj\\",
+      "outputPath": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\MyArray\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\bin\Debug\net8.0\DeligateType.exe
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\bin\Debug\net8.0\DeligateType.deps.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\bin\Debug\net8.0\DeligateType.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\bin\Debug\net8.0\DeligateType.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\bin\Debug\net8.0\DeligateType.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\obj\Debug\net8.0\DeligateType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\obj\Debug\net8.0\DeligateType.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\obj\Debug\net8.0\DeligateType.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\obj\Debug\net8.0\DeligateType.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\obj\Debug\net8.0\DeligateType.sourcelink.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\obj\Debug\net8.0\DeligateType.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\obj\Debug\net8.0\refint\DeligateType.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\obj\Debug\net8.0\DeligateType.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\obj\Debug\net8.0\DeligateType.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\DeligateType\obj\Debug\net8.0\ref\DeligateType.dll

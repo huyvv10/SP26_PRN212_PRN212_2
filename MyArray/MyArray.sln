@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyArray", "MyArray.csproj", "{B9583C90-8941-4D39-94A5-B4B60D133837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefVariable", "..\RefVariable\RefVariable.csproj", "{7BB6EBAB-DB14-4678-A0EB-58F9ECF0C059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuplesVariable", "..\TuplesVariable\TuplesVariable.csproj", "{02AE397E-C990-4045-9C81-DAA747DBA9F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeligateType", "..\DeligateType\DeligateType.csproj", "{7A88D2FA-EBB3-4B15-B7F1-0E93676FD454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9583C90-8941-4D39-94A5-B4B60D133837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9583C90-8941-4D39-94A5-B4B60D133837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9583C90-8941-4D39-94A5-B4B60D133837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9583C90-8941-4D39-94A5-B4B60D133837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB6EBAB-DB14-4678-A0EB-58F9ECF0C059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB6EBAB-DB14-4678-A0EB-58F9ECF0C059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB6EBAB-DB14-4678-A0EB-58F9ECF0C059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB6EBAB-DB14-4678-A0EB-58F9ECF0C059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02AE397E-C990-4045-9C81-DAA747DBA9F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AE397E-C990-4045-9C81-DAA747DBA9F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AE397E-C990-4045-9C81-DAA747DBA9F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AE397E-C990-4045-9C81-DAA747DBA9F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A88D2FA-EBB3-4B15-B7F1-0E93676FD454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A88D2FA-EBB3-4B15-B7F1-0E93676FD454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A88D2FA-EBB3-4B15-B7F1-0E93676FD454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A88D2FA-EBB3-4B15-B7F1-0E93676FD454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
