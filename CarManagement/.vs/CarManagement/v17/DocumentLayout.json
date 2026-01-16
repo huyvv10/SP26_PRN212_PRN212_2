@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\CarManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11B54B86-B8DB-4CC9-B191-317EF3C1A20E}|CarManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\carmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B54B86-B8DB-4CC9-B191-317EF3C1A20E}|CarManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B54B86-B8DB-4CC9-B191-317EF3C1A20E}|CarManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\carmanagement\\carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B54B86-B8DB-4CC9-B191-317EF3C1A20E}|CarManagement.csproj|solutionrelative:carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B54B86-B8DB-4CC9-B191-317EF3C1A20E}|CarManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\carmanagement\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B54B86-B8DB-4CC9-B191-317EF3C1A20E}|CarManagement.csproj|solutionrelative:electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B54B86-B8DB-4CC9-B191-317EF3C1A20E}|CarManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\carmanagement\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B54B86-B8DB-4CC9-B191-317EF3C1A20E}|CarManagement.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarManagement.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\CarManagement\\CarManagement.cs",
+              "RelativeDocumentMoniker": "CarManagement.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\CarManagement\\CarManagement.cs",
+              "RelativeToolTip": "CarManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T02:02:22.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\CarManagement\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "ElectricCar.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\CarManagement\\ElectricCar.cs",
+              "RelativeToolTip": "ElectricCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:54:28.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\CarManagement\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\CarManagement\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:42:45.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\CarManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\CarManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:41:18.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

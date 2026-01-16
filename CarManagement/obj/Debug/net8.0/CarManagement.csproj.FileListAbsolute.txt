@@ -1,0 +1,15 @@
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\bin\Debug\net8.0\CarManagement.exe
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\bin\Debug\net8.0\CarManagement.deps.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\bin\Debug\net8.0\CarManagement.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\bin\Debug\net8.0\CarManagement.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\bin\Debug\net8.0\CarManagement.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\obj\Debug\net8.0\CarManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\obj\Debug\net8.0\CarManagement.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\obj\Debug\net8.0\CarManagement.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\obj\Debug\net8.0\CarManagement.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\obj\Debug\net8.0\CarManagement.sourcelink.json
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\obj\Debug\net8.0\CarManagement.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\obj\Debug\net8.0\refint\CarManagement.dll
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\obj\Debug\net8.0\CarManagement.pdb
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\obj\Debug\net8.0\CarManagement.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\PRN212_2\SP26_PRN212_PRN212_2\CarManagement\obj\Debug\net8.0\ref\CarManagement.dll
