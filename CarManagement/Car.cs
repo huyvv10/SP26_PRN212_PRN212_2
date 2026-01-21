@@ -18,13 +18,6 @@ namespace carManagement
         public double Price { get; set; }
 
         public Car() { }
-        //public Car(string id, string name, int color, double price)
-        //{
-        //    this._id = id;
-        //    this.Name = name;
-        //    this.Color = color;
-        //    this.Price = price;
-        //}
 
         public abstract double CalculateTax();
         public abstract void AddCar();
@@ -35,7 +28,7 @@ namespace carManagement
 
         public void ShowCar()
         {
-            Console.Write($"{_id,-5} {Name,-20} {Color,-5} {Price,-15}");
+            Console.Write($"{_id,-5} {Name,-20} {Color,-7} {Price,-15}");
         }
 
     //public void ShowCar2() 

@@ -34,7 +34,7 @@ namespace carManagement
 
         public override double CalculateTax()
         {
-            return Price <= 30000 ? Price * 0.15 : Price * 0.2;
+            return Price <= 30000 ? Price * 0.2 : Price * 0.3;
         }
         public override void DisplayCarList()
         {
