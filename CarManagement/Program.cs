@@ -21,6 +21,11 @@ namespace carManagement
                         break;
                     case 2:
                         myCar.display(); break;
+                    case 3:
+                        Console.Write("Input car ID to search: ");
+                        string kwID = Console.ReadLine();
+                        myCar.SearchById(kwID);
+                        break;
                     case 0: break;
                     default:
                         Console.WriteLine("Invalid selection. Please select again."); break;

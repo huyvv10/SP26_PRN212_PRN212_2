@@ -57,9 +57,22 @@ namespace carManagement
             carsList.Add(x);
         }
 
+        public void SearchById(string id)
+        {
+            Console.WriteLine($"{"Id",-5} {"Car Name",-20} {"Color",-7} {"Price",-15} {"Energy",-12} {"Tax",15}");
+            Console.WriteLine($"{"--",-5} {"--------",-20} {"-----",-7} {"-----",-15} {"------",-12} {"---",15}");
+            foreach (Car car in carsList)
+            {
+                if (car.Id == id)
+                {
+                    car.DisplayCarList();
+                }
+            }
+        }
         public void display()
         {
             Console.WriteLine($"{"Id",-5} {"Car Name",-20} {"Color",-7} {"Price",-15} {"Energy",-12} {"Tax", 15}");
+            Console.WriteLine($"{"--",-5} {"--------",-20} {"-----",-7} {"-----",-15} {"------",-12} {"---", 15}");
             foreach (Car car in carsList)
             {
                 car.DisplayCarList();
