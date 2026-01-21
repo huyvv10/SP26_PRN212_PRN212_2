@@ -16,7 +16,7 @@ namespace carManagement
                 switch (sel)
                 {
                     case 1:
-                        myCar.AddElectricCar();
+                        myCar.AddNewCar();
                         myCar.display();
                         break;
                     case 2:
@@ -31,6 +31,7 @@ namespace carManagement
 
         public static void Menu()
         {
+            Console.WriteLine("\n-----------------------\n");
             Console.WriteLine("1. Add a new Electric Car");
             Console.WriteLine("2. Display Car List");
             Console.WriteLine("0. Quit");

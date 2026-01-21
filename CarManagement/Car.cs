@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace carManagement
 {
-    public class Car
+    public abstract class Car
     {
         private string _id;
         public string Id { 
@@ -26,16 +26,20 @@ namespace carManagement
         //    this.Price = price;
         //}
 
+        public abstract double CalculateTax();
+        public abstract void AddCar();
+        public abstract void DisplayCarList();
+
         public Car(string id, string name, int color, double price)
             => (_id, Name, Color, Price) = (id, name, color, price);
 
         public void ShowCar()
         {
-            Console.Write($"{_id,-5} {Name,-20} {Color,-5} {Price,-10}");
+            Console.Write($"{_id,-5} {Name,-20} {Color,-5} {Price,-15}");
         }
 
-        public void ShowCar2() 
-            => Console.Write($"{_id,-5} {Name,-20} {Color,-5} {Price,-10}");
+    //public void ShowCar2() 
+    //    => Console.Write($"{_id,-5} {Name,-20} {Color,-5} {Price,-10}");
 
-    }
+}
 }

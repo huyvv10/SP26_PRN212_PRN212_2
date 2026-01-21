@@ -8,35 +8,36 @@ namespace carManagement
 {
     public class CarManagement
     {
-        public List<ElectricCar> eCarList;
+        public List<Car> carsList;
         public CarManagement()
         {
-            eCarList = new List<ElectricCar>();
+            carsList = new List<Car>();
         }
 
-        public void AddElectricCar()
+        public void AddNewCar()
         {
-            Console.Write("Input id: ");
-            string id = Console.ReadLine();
-            Console.Write("Input name: ");
-            string name = Console.ReadLine();
-            Console.Write("Input color: ");
-            int color = int.Parse(Console.ReadLine());
-            Console.Write("Input price: ");
-            double price = double.Parse(Console.ReadLine());
-            Console.Write("Input battery capcity: ");
-            int bat = int.Parse(Console.ReadLine());
-
-            ElectricCar x = new ElectricCar(id, name, color, price, bat);
-            eCarList.Add(x);
+            Console.Write("Select 1 to add Electric car\nSelect 2 to add Gas car\nYour selection is: ");
+            int.TryParse(Console.ReadLine(), out int selectType);
+            Car x;
+            if (selectType == 1)
+            {
+                x = new ElectricCar();
+            }
+            else
+            {
+                x = new GasCar();
+            }
+            x.AddCar();
+            carsList.Add(x);
         }
 
         public void display()
         {
-            Console.WriteLine($"{"Id",-5} {"Car Name",-20} {"Color",-5} {"Price",-10} {"Energy",10}");
-            foreach (ElectricCar car in eCarList)
+            Console.WriteLine($"{"Id",-5} {"Car Name",-20} {"Color",-5} {"Price",-15} {"Energy",-12} {"Tax", 15}");
+            foreach (Car car in carsList)
             {
-                car.ShowCar();
+                car.DisplayCarList();
+                //Console.WriteLine();
             }
         }
 
