@@ -1,0 +1,14 @@
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\bin\Debug\net8.0\MyLINQ.exe
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\bin\Debug\net8.0\MyLINQ.deps.json
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\bin\Debug\net8.0\MyLINQ.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\bin\Debug\net8.0\MyLINQ.dll
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\bin\Debug\net8.0\MyLINQ.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\obj\Debug\net8.0\MyLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\obj\Debug\net8.0\MyLINQ.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\obj\Debug\net8.0\MyLINQ.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\obj\Debug\net8.0\MyLINQ.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\obj\Debug\net8.0\MyLINQ.dll
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\obj\Debug\net8.0\refint\MyLINQ.dll
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\obj\Debug\net8.0\MyLINQ.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\obj\Debug\net8.0\MyLINQ.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\SE1974\MyLINQ\obj\Debug\net8.0\ref\MyLINQ.dll
