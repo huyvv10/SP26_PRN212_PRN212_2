@@ -18,7 +18,7 @@ namespace MyLINQ
 
         public void displayStudent()
         {
-            Console.WriteLine($"{Id,-5} {Name,-25} {Age,-5} {Gender,-7} {DepartmentId,-3} {GPA,5}");
+            Console.WriteLine($"{Id,-5} {Name,-10} {Age,-5} {Gender,-7} {DepartmentId,-3} {GPA,5}");
         }
     }
 

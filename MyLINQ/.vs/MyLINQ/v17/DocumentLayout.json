@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\MyLINQ\\",
+  "WorkspaceRootPath": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\MyLINQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCCC93D2-156A-460E-954F-CEABF6764930}|MyLINQ.csproj|d:\\coding\\prn212\\sp26\\console\\se1974\\mylinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCCC93D2-156A-460E-954F-CEABF6764930}|MyLINQ.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\mylinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCCC93D2-156A-460E-954F-CEABF6764930}|MyLINQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCCC93D2-156A-460E-954F-CEABF6764930}|MyLINQ.csproj|d:\\coding\\prn212\\sp26\\console\\se1974\\mylinq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCCC93D2-156A-460E-954F-CEABF6764930}|MyLINQ.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\mylinq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCCC93D2-156A-460E-954F-CEABF6764930}|MyLINQ.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\MyLINQ\\Student.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\MyLINQ\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\MyLINQ\\Student.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\MyLINQ\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T16:23:13.891Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\MyLINQ\\Program.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\MyLINQ\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\MyLINQ\\Program.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\MyLINQ\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwDgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAUwJsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T16:20:22.451Z",
               "EditorCaption": ""
