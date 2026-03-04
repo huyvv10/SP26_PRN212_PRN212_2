@@ -32,5 +32,12 @@ namespace ProductManagement
             frmCategory.Show();
             this.Close();
         }
+
+        private void btnProduct_Click(object sender, RoutedEventArgs e)
+        {
+            FormProduct frmProduct = new FormProduct();
+            frmProduct.Show();
+            this.Close();   
+        }
     }
 }

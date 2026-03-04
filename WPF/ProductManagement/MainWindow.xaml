@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ProductManagement"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     
     
         <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Vertical" Margin="5" HorizontalAlignment="Center">
             <Button x:Name="btnCategory" Content="Category" Width="150" Margin="5" Background="Yellow" FontWeight="Bold" Click="btnCategory_Click"/>
-            <Button x:Name="btnProduct" Content="Product Management" Width="150" Margin="5" Background="Yellow" FontWeight="Bold"/>
+            <Button x:Name="btnProduct" Content="Product Management" Width="150" Margin="5" Background="Yellow" FontWeight="Bold" Click="btnProduct_Click"/>
           
             <Button x:Name="btnClose" Content="_Close" Width="150" Margin="5" Background="Yellow" FontWeight="Bold" Click="btnClose_Click"/>
         </StackPanel>

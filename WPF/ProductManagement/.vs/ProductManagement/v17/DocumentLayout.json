@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\formproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:formproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\formproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:formproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\formcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:formcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\formcategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:formcategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\bll\\categorybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +43,8 @@
       "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\formcategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:formcategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\formcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:formcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|d:\\coding\\prn212\\sp26\\console\\prn212_2\\sp26_prn212_prn212_2\\wpf\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE81534F-731E-4B0A-A590-01DA53FFD5AA}|ProductManagement.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,32 +59,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryBLL.cs",
-              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\BLL\\CategoryBLL.cs",
-              "RelativeDocumentMoniker": "BLL\\CategoryBLL.cs",
-              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\BLL\\CategoryBLL.cs",
-              "RelativeToolTip": "BLL\\CategoryBLL.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Title": "FormProduct.xaml.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\FormProduct.xaml.cs",
+              "RelativeDocumentMoniker": "FormProduct.xaml.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\FormProduct.xaml.cs",
+              "RelativeToolTip": "FormProduct.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T08:03:45.807Z",
+              "WhenOpened": "2026-03-04T01:25:59.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormProduct.xaml",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\FormProduct.xaml",
+              "RelativeDocumentMoniker": "FormProduct.xaml",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\FormProduct.xaml",
+              "RelativeToolTip": "FormProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-04T01:00:04.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductDAL.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\DAL\\ProductDAL.cs",
               "RelativeDocumentMoniker": "DAL\\ProductDAL.cs",
               "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\DAL\\ProductDAL.cs",
               "RelativeToolTip": "DAL\\ProductDAL.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAwwEkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwEUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T02:34:35.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CategoryDAL.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\DAL\\CategoryDAL.cs",
               "RelativeDocumentMoniker": "DAL\\CategoryDAL.cs",
@@ -88,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -100,19 +120,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T01:57:30.989Z"
+              "WhenOpened": "2026-02-27T01:57:30.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "FormCategory.xaml.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\FormCategory.xaml.cs",
               "RelativeDocumentMoniker": "FormCategory.xaml.cs",
@@ -120,41 +141,57 @@
               "RelativeToolTip": "FormCategory.xaml.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAswGQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T01:44:24.064Z"
+              "WhenOpened": "2026-02-27T01:44:24.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FormCategory.xaml",
               "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\FormCategory.xaml",
               "RelativeDocumentMoniker": "FormCategory.xaml",
               "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\FormCategory.xaml",
               "RelativeToolTip": "FormCategory.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-27T01:15:19.808Z"
+              "WhenOpened": "2026-02-27T01:15:19.808Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-25T03:59:52.98Z"
+              "WhenOpened": "2026-02-25T03:59:52.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwCIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T03:59:46.324Z"
+              "WhenOpened": "2026-02-25T03:59:46.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryBLL.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\BLL\\CategoryBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\CategoryBLL.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\PRN212_2\\SP26_PRN212_PRN212_2\\WPF\\ProductManagement\\BLL\\CategoryBLL.cs",
+              "RelativeToolTip": "BLL\\CategoryBLL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:03:45.807Z"
             }
           ]
         }
