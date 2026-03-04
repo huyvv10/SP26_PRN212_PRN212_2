@@ -62,21 +62,5 @@ namespace ProductManagement.DAL
                 throw new Exception(e.Message) ;
             }
         }
-        public List<Product> SearchProductByName(string kw)
-        {
-            try
-            {
-                _dbContext = new();
-                if (kw == null) return GetAllProducts();
-                var prdList = new List<Product>();
-
-                prdList = GetAllProducts().Where(s => s.PName.ToLower().Contains(kw.ToLower())).ToList();
-                return prdList;
-            }
-            catch (Exception e)
-            {
-                throw new Exception(e.Message);
-            }
-        }
     }
 }

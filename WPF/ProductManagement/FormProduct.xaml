@@ -43,10 +43,10 @@
                           SelectedValuePath="CatId"/>
 
                 <StackPanel Orientation="Horizontal" Margin="0 20 0 0">
-                    <Button Content="Add" Width="70" Margin="5"/>
-                    <Button Content="Update" Width="70" Margin="5"/>
-                    <Button Content="Delete" Width="70" Margin="5"/>
-                    <Button Content="Clear" Width="70" Margin="5"/>
+                    <Button x:Name="btnAdd" Content="_Add" Width="70" Margin="5" Click="btnAdd_Click"/>
+                    <Button x:Name="btnUpdate" Content="_Update" Width="70" Margin="5"/>
+                    <Button x:Name="btnDelete" Content="Delete" Width="70" Margin="5" Click="btnDelete_Click"/>
+                    <Button x:Name="btnClose" Content="_Close" Width="70" Margin="5" Click="btnClose_Click"/>
                 </StackPanel>
 
             </StackPanel>
@@ -62,20 +62,20 @@
 
                 <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,5,0,5">
                     <TextBox x:Name="txtSearch" Width="250" Margin="5,0,10,0"/>
-                    <Button x:Name="btnSearch" Content="_Search" Width="150" Background="Yellow" />
+                    <Button x:Name="btnSearch" Content="_Search" Width="150" Background="Yellow" Click="btnSearch_Click" />
                 </StackPanel>
                 <DataGrid x:Name="dgProducts"
                       AutoGenerateColumns="False"
                       IsReadOnly="True"
-                      SelectionMode="Single" Grid.Row="1">
+                      SelectionMode="Single" Grid.Row="1" SelectionChanged="dgProducts_SelectionChanged">
 
                     <DataGrid.Columns>
-                        <DataGridTextColumn Header="ID" Binding="{Binding PId}" Width="80"/>
-                        <DataGridTextColumn Header="Name" Binding="{Binding PName}" Width="150"/>
-                        <DataGridTextColumn Header="Unit" Binding="{Binding Unit}" Width="80"/>
-                        <DataGridTextColumn Header="Qty" Binding="{Binding Qty}" Width="80"/>
-                        <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="100"/>
-                        <DataGridTextColumn Header="Category" Binding="{Binding Cat.CatName}" Width="150"/>
+                        <DataGridTextColumn Header="ID" Binding="{Binding PId}" Width="1*"/>
+                        <DataGridTextColumn Header="Name" Binding="{Binding PName}" Width="3*"/>
+                        <DataGridTextColumn Header="Unit" Binding="{Binding Unit}" Width="1*"/>
+                        <DataGridTextColumn Header="Qty" Binding="{Binding Qty}" Width="1*"/>
+                        <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="1*"/>
+                        <DataGridTextColumn Header="Category" Binding="{Binding Cat.CatName}" Width="2*"/>
                     </DataGrid.Columns>
 
                 </DataGrid>
