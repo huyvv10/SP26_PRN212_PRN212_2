@@ -117,7 +117,7 @@ namespace ProductManagement {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ProductManagement;component/formcategory.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ProductManagement;V1.0.0.0;component/formcategory.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\FormCategory.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
